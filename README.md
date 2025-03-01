@@ -40,8 +40,8 @@ Actually Useful Links
     Awesome Selfhosted: Host your own madness.
 
 🎭 Mood Meter
-
 Current state: 🤯 (Send coffee or memes)
+
 🚀 Make It Yours
 
 Fork this repo, clone it, or scribble all over it. Add your own projects, skills, and rants. Let’s build a legion of DevOps gremlins together!
