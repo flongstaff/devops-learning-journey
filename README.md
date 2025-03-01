@@ -1,4 +1,4 @@
-🎉 Your DevOps Dumpster Fire (a.k.a. README.md)
+Your DevOps Dumpster Fire (a.k.a. README.md)
 
 Yo, what’s good? Welcome to my trash heap of a repo, where I’m trying to claw my way from Linux dork to DevOps demigod. It’s less “structured roadmap” and more “guy yelling at clouds until they work.” Expect chaos, caffeine stains, and maybe some actual learning if we’re lucky.
 
@@ -15,7 +15,6 @@ It’s less “step-by-step guide” and more “survival log of a caffeine-fuel
 
     skills/ 🧠: My attempts at grokking Terraform, Docker, and CI/CD. Spoiler: I’m still confused.
     projects/ 🛠️: Hands-on chaos like a Proxmox home lab or an AWS app that might work.
-    journal.md 📝: Monthly rants and reflections. Grab snacks—it’s a rollercoaster.
     certifications/ 📜: Notes for exams like AWS Certified DevOps Engineer. Send help.
 
 💀 How to Survive This Repo
@@ -38,9 +37,6 @@ Actually Useful Links
     DevOps Roadmap: When you need a real plan.
     Awesome DevOps: Tools I’ll pretend I’ve mastered.
     Awesome Selfhosted: Host your own madness.
-
-🎭 Mood Meter
-Current state: 🤯 (Send coffee or memes)
 
 🚀 Make It Yours
 
